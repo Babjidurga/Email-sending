@@ -1,4 +1,4 @@
-// In simple js file it will not give any output but in React js file it will give the output
+// This code is to get the user entered info to us via Email
 
 import React,{useState} from 'react'
 import emailjs from 'emailjs-com'
