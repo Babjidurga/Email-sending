@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with Create React App 
+
+# It is a simple code to get the user information entered to us via Email in the required format.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
